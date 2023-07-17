@@ -1,1 +1,1 @@
-CREATE DATABASE bank_schema
+CREATE DATABASE bank_schema;
