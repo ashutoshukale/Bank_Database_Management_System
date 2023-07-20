@@ -2,6 +2,7 @@
 Designed a Bank Database Management System and developed the database schema and utilized MySQL to populate the database and retrieve specific information regarding Banks, branches, accounts, transactions, etc.
 
 # ER Diagram and Relationship Schema
+![ER Diagram and Relationship Schema Bank Database](https://github.com/ashutoshukale/Bank_Database_Management_System/assets/123993522/4c32a4b8-d6cc-4a2a-b9da-1f895d8d2420)
 
 
 # Relationship Schema
